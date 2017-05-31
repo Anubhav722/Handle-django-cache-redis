@@ -136,3 +136,5 @@ CACHES = {
         "KEY_PREFIX": "example"
     }
 }
+
+CACHE_TTL = 60 * 15
